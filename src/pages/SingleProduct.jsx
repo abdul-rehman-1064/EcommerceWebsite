@@ -1,6 +1,6 @@
 import { useParams } from "react-router-dom";
 import React from "react";
-import SingleProductHeader from "../components/singleProductHeader.jsx";
+import SingleProductHeader from "../components/SingleProductHeader.jsx";
 import { IoCartOutline } from 'react-icons/io5';
 import Animation from '../assets/Animation - 1750746128058.json'
 import Lottie from 'lottie-react';
